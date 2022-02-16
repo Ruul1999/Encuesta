@@ -1,0 +1,4088 @@
+{
+  "title": "string",
+  "shortTitle": "string",
+  "initMessage": "<p style=\"text-align: justify;\"><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\">Te solicitamos seguir las recomendaciones que a continuación se mencionan:</span></p>\r\n<ul>\r\n  <li style=\"text-align: justify;\"><span style=\"font-size: \r\n      16px;\"><span style=\"font-family: \r\n        Arial, Helvetica, sans-serif;\">Responder la encuesta en un lugar tranquilo en donde logres concentrarte y no tengas interrupciones.</span></span></li>\r\n  <li style=\"text-align: justify;\"><span style=\"font-size: \r\n      16px;\"><span style=\"font-family: \r\n        Arial, Helvetica, sans-serif;\">Al iniciar la encuesta ten la certeza de tener el tiempo necesario para concluirla , ya que en caso contrario deberás reiniciar la actividad.</span></span></li>\r\n  <li style=\"text-align: justify;\"><span style=\"font-size: \r\n      16px;\"><span style=\"font-family: \r\n        Arial, Helvetica, sans-serif;\">Asegura de responder completamente. No existen respuestas correctas, ni incorrectas, por lo que con toda confianza puedes externar tu opinión.</span></span></li>\r\n  <li style=\"text-align: justify;\"><span style=\"font-size: \r\n      16px;\"><span style=\"font-family: \r\n        Arial, Helvetica, sans-serif;\">Lo que respondas es privado y confidencial.</span></span></li>\r\n  <li style=\"text-align: justify;\"><span style=\"font-size: \r\n      16px;\"><span style=\"font-family: \r\n        Arial, Helvetica, sans-serif;\">Asegura &nbsp;guardar tu clave de seguridad (password), ya que será con el que puedas ingresar para todas las actividades realizaras en Mi Espacio Sanborns.</span></span></li>\r\n</ul>\r\n<p style=\"text-align: justify;\"><span style=\"font-size: \r\n      16px;\"><span style=\"font-family: \r\n        Arial, Helvetica, sans-serif;\">La información que nos proporciones solo se utilizara para la mejora de tu Centro de Trabajo.</span></span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\">¿Quieres proceder con la elaboración de la encuesta?</span></p>",
+  "idSurvey": 3,
+  "idSurveyType": 2,
+  "idEval": 0,
+  "idTypeEval": 0,
+  "status": "P",
+  "sections": [
+    {
+      "title": "Para responder las preguntas siguientes considere las condiciones ambientales de su centro de trabajo",
+      "shortTitle": "CONDICIONES DEL CENTRO DE TRABAJO Y RITMO DE TRABAJO",
+      "idSection": 14,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 14,
+          "label": "El espacio donde trabajo me permite realizar mis actividades de manera segura e higiénica",
+          "key": 157,
+          "idTree": 48,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 460
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 461
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 462
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 463
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 464
+            }
+          ],
+          "order": 1,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 14,
+          "label": "Mi trabajo me exige hacer mucho esfuerzo físico",
+          "key": 158,
+          "idTree": 49,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 275
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 276
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 277
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 278
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 279
+            }
+          ],
+          "order": 2,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 14,
+          "label": "Me preocupa sufrir un accidente en mi trabajo",
+          "key": 159,
+          "idTree": 48,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 280
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 281
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 282
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 283
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 284
+            }
+          ],
+          "order": 3,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 14,
+          "label": "Considero que en mi trabajo se aplican las normas de seguridad y salud en el trabajo",
+          "key": 160,
+          "idTree": 49,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 465
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 466
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 467
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 468
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 469
+            }
+          ],
+          "order": 4,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 14,
+          "label": "Considero que las actividades que realizo son preligrosas",
+          "key": 161,
+          "idTree": 50,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 285
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 286
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 287
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 288
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 289
+            }
+          ],
+          "order": 5,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Cantidad y ritmo de trabajo",
+      "shortTitle": "ACTIVIDADES Y RESPONSABILIDAD",
+      "idSection": 15,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 15,
+          "label": "Por la cantidad de trabajo que tengo debo quedarme tiempo adicional a mi turno",
+          "key": 162,
+          "idTree": 51,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 290
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 291
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 292
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 293
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 294
+            }
+          ],
+          "order": 6,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 15,
+          "label": "Por la cantidad de trabajo que tengo debo trabajar sin parar",
+          "key": 163,
+          "idTree": 52,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 295
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 296
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 297
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 298
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 299
+            }
+          ],
+          "order": 7,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 15,
+          "label": "Considero que es necesario mantener un ritmo de trabajo acelerado",
+          "key": 164,
+          "idTree": 52,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 300
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 301
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 302
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 303
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 304
+            }
+          ],
+          "order": 8,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Esfuerzo mental que le exige su trabajo",
+      "shortTitle": "TIEMPO DESTINADO AL TRABAJO Y FAMILIA",
+      "idSection": 16,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 16,
+          "label": "Mi trabajo exige que esté muy concentrado",
+          "key": 165,
+          "idTree": 53,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 305
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 306
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 307
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 308
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 309
+            }
+          ],
+          "order": 9,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 16,
+          "label": "Mi trabajo requiere que memorice mucha información",
+          "key": 166,
+          "idTree": 53,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 310
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 311
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 312
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 313
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 314
+            }
+          ],
+          "order": 10,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 16,
+          "label": "En mi trabajo tengo que tomar decisiones difíciles muy rápido",
+          "key": 167,
+          "idTree": 53,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 315
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 316
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 317
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 318
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 319
+            }
+          ],
+          "order": 11,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 16,
+          "label": "Mi trabajo exige que atienda varios asuntos al mismo tiempo",
+          "key": 168,
+          "idTree": 51,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 320
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 321
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 322
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 323
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 324
+            }
+          ],
+          "order": 12,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Actividades que realiza en su trabajo y las responsabilidades",
+      "shortTitle": "DECISIONES EN SU TRABAJO",
+      "idSection": 17,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 17,
+          "label": "En mi trabajo soy responsable de cosas de mucho valor",
+          "key": 169,
+          "idTree": 55,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 325
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 326
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 327
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 328
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 329
+            }
+          ],
+          "order": 13,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 17,
+          "label": "Respondo ante mi jefe por los resultados de toda mi área de trabajo",
+          "key": 170,
+          "idTree": 55,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 330
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 331
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 332
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 333
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 334
+            }
+          ],
+          "order": 14,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 17,
+          "label": "En el trabajo me dan órdenes contradictorias",
+          "key": 171,
+          "idTree": 56,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 335
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 336
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 337
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 338
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 339
+            }
+          ],
+          "order": 15,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 17,
+          "label": "Considero que en mi trabajo me piden hacer cosas innecesarias",
+          "key": 172,
+          "idTree": 56,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 340
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 341
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 342
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 343
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 344
+            }
+          ],
+          "order": 16,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Jornada de trabajo",
+      "shortTitle": "CAPACITACIÓN E INFORMACION ACERCA DE SU TRABAJO",
+      "idSection": 18,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 18,
+          "label": "Trabajo horas extra más de tres veces a la semana",
+          "key": 173,
+          "idTree": 61,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 345
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 346
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 347
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 348
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 349
+            }
+          ],
+          "order": 17,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 18,
+          "label": "Mi trabajo me exige laborar en días de descanso, festivos o fines de semana",
+          "key": 174,
+          "idTree": 61,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 350
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 351
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 352
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 353
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 354
+            }
+          ],
+          "order": 18,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 18,
+          "label": "Considero que el tiempo en el trabajo es mucho y perjudica mis actividades familares o personales",
+          "key": 175,
+          "idTree": 62,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 355
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 356
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 357
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 358
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 359
+            }
+          ],
+          "order": 19,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 18,
+          "label": "Debo atender asuntos de trabajo cuando estoy en casa",
+          "key": 176,
+          "idTree": 62,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 360
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 361
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 362
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 363
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 364
+            }
+          ],
+          "order": 20,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 18,
+          "label": "Pienso en las actividades familiares o personales cuando estoy en mi trabajo",
+          "key": 177,
+          "idTree": 63,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 365
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 366
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 367
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 368
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 369
+            }
+          ],
+          "order": 21,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 18,
+          "label": "Pienso que mis responsabilidades familiares afectan mi trabajo",
+          "key": 178,
+          "idTree": 63,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 370
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 371
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 372
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 373
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 374
+            }
+          ],
+          "order": 22,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Decisiones que puede tomar en su trabajo",
+      "shortTitle": "RELACIONES CON COMPAÑEROS Y JEFE",
+      "idSection": 19,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 19,
+          "label": "Mi trabajo permite que desarrolle nuevas habilidades",
+          "key": 179,
+          "idTree": 58,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 470
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 471
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 472
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 473
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 474
+            }
+          ],
+          "order": 23,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 19,
+          "label": "En mi trabajo puedo aspirar a un mejor puesto",
+          "key": 180,
+          "idTree": 58,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 475
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 476
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 477
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 478
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 479
+            }
+          ],
+          "order": 24,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 19,
+          "label": "Durante mi jornada de trabajo puedo tomar pausas cuando las necesito",
+          "key": 181,
+          "idTree": 57,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 480
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 481
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 482
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 483
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 484
+            }
+          ],
+          "order": 25,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 19,
+          "label": "Puedo decidir cuánto trabajo realiza durante la jornada laboral",
+          "key": 182,
+          "idTree": 57,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 485
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 486
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 487
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 488
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 489
+            }
+          ],
+          "order": 26,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 19,
+          "label": "Puedo decidir la velocidad a la que realizo mis actividades en mi trabajo",
+          "key": 183,
+          "idTree": 57,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 490
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 491
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 492
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 493
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 494
+            }
+          ],
+          "order": 27,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 19,
+          "label": "Puedo cambiar el orden de las actividades que realizo en mi trabajo",
+          "key": 184,
+          "idTree": 57,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 495
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 496
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 497
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 498
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 499
+            }
+          ],
+          "order": 28,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Cualquier tipo de cambio que ocurra en su trabajo",
+      "shortTitle": "ATENCIÓN A CLIENTES Y USUARIOS",
+      "idSection": 20,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 20,
+          "label": "Los cambios que se presentan en mi trabajo dificultan mi labor",
+          "key": 185,
+          "idTree": 59,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 375
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 376
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 377
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 378
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 379
+            }
+          ],
+          "order": 29,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 20,
+          "label": "Cuando se presentan cambios en mi trabajo se tienen en cuenta mis ideas o aportaciones",
+          "key": 186,
+          "idTree": 59,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 500
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 501
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 502
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 503
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 504
+            }
+          ],
+          "order": 30,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Capacitación e informacion que se proporciona en el trabajo",
+      "shortTitle": "ACTITUDES DE LOS TRABAJADORES QUE SUPERVISA",
+      "idSection": 21,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 21,
+          "label": "Me informan con claridad cuáles son mis funciones",
+          "key": 187,
+          "idTree": 64,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 505
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 506
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 507
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 508
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 509
+            }
+          ],
+          "order": 31,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 21,
+          "label": "Me explican claramente los resultados que debo obtener en mi trabajo",
+          "key": 188,
+          "idTree": 64,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 510
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 511
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 512
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 513
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 514
+            }
+          ],
+          "order": 32,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 21,
+          "label": "Me explican claramente los objetivos de mi trabajo",
+          "key": 189,
+          "idTree": 64,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 515
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 516
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 517
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 518
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 519
+            }
+          ],
+          "order": 33,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 21,
+          "label": "Me informan con quién debo resolver problemas o asuntos de trabajo",
+          "key": 190,
+          "idTree": 64,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 520
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 521
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 522
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 523
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 524
+            }
+          ],
+          "order": 34,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 21,
+          "label": "Me permiten asistir a capacitaciones relacionadas con mi trabajo",
+          "key": 191,
+          "idTree": 60,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 525
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 526
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 527
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 528
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 529
+            }
+          ],
+          "order": 35,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 21,
+          "label": "Recibo capacitación útil para hacer mi trabajo",
+          "key": 192,
+          "idTree": 60,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 530
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 531
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 532
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 533
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 534
+            }
+          ],
+          "order": 36,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Las preguntas siguientes están relacionadas con el o los jefe con quien tiene contacto",
+      "shortTitle": "JEFE O JEFES CON LOS QUE SE TIENE CONTACTO",
+      "idSection": 22,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 22,
+          "label": "Mi jefe ayuda a organizar mejor el trabajo",
+          "key": 193,
+          "idTree": 65,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 535
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 536
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 537
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 538
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 539
+            }
+          ],
+          "order": 37,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 22,
+          "label": "Mi jefe tiene en cuenta mis puntos de vista y opiniones",
+          "key": 194,
+          "idTree": 65,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 540
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 541
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 542
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 543
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 544
+            }
+          ],
+          "order": 38,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 22,
+          "label": "Mi jefe me comunica a tiempo la información relacionada con el trabajo",
+          "key": 195,
+          "idTree": 65,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 545
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 546
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 547
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 548
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 549
+            }
+          ],
+          "order": 39,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 22,
+          "label": "La orientación que me da mi jefe me ayuda a realizar mejor mi trabajo",
+          "key": 196,
+          "idTree": 65,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 550
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 551
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 552
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 553
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 554
+            }
+          ],
+          "order": 40,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 22,
+          "label": "Mi jefe ayuda a solucionar los problemas que se presentan en el trabajo",
+          "key": 197,
+          "idTree": 65,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 555
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 556
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 557
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 558
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 559
+            }
+          ],
+          "order": 41,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Las preguntas siguientes se refieren a las relaciones con sus compañeros",
+      "shortTitle": "RELACIONES CON COMPAÑEROS",
+      "idSection": 23,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 23,
+          "label": "Puedo confiar en mis compañeros de trabajo",
+          "key": 198,
+          "idTree": 66,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 560
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 561
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 562
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 563
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 564
+            }
+          ],
+          "order": 42,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 23,
+          "label": "Entre compañeros solucionamos los problemas de trabajo de forma respetuosa",
+          "key": 199,
+          "idTree": 66,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 565
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 566
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 567
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 568
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 569
+            }
+          ],
+          "order": 43,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 23,
+          "label": "En mi trabajo me hacen sentir parte del grupo",
+          "key": 200,
+          "idTree": 66,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 570
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 571
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 572
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 573
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 574
+            }
+          ],
+          "order": 44,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 23,
+          "label": "Cuando tenemos que realizar trabajo de equipo los compañeros colaboran",
+          "key": 201,
+          "idTree": 66,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 575
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 576
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 577
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 578
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 579
+            }
+          ],
+          "order": 45,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 23,
+          "label": "Mis compañeros de trabajo me ayudan cuando tengo dificultades",
+          "key": 202,
+          "idTree": 66,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 580
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 581
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 582
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 583
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 584
+            }
+          ],
+          "order": 46,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Las preguntas siguientes están relacionadas con la información que recibe sobre su rendimiento en el trabajo, el reconocimiento, el sentido de pertenencia y la estabilidad que le ofrece su trabajo",
+      "shortTitle": "INFORMACIÓN DEL TRABAJO",
+      "idSection": 24,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 24,
+          "label": "Me informan sobre lo que hago bien en mi trabajo",
+          "key": 203,
+          "idTree": 69,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 585
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 586
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 587
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 588
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 589
+            }
+          ],
+          "order": 47,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 24,
+          "label": "La forma como evalúan mi trabajo en mi centro de trabajo me ayuda a mejorar mi desempeño",
+          "key": 204,
+          "idTree": 69,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 590
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 591
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 592
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 593
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 594
+            }
+          ],
+          "order": 48,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 24,
+          "label": "En mi centro de trabajo me pagan a tiempo mi salario",
+          "key": 205,
+          "idTree": 70,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 595
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 596
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 597
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 598
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 599
+            }
+          ],
+          "order": 49,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 24,
+          "label": "El pago que recibo es el que merezco por el trabajo que realizo",
+          "key": 206,
+          "idTree": 70,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 600
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 601
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 602
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 603
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 604
+            }
+          ],
+          "order": 50,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 24,
+          "label": "Si obtengo los resultados esperados en mi trabajo me recompensan o reconocen",
+          "key": 207,
+          "idTree": 70,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 605
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 606
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 607
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 608
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 609
+            }
+          ],
+          "order": 51,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 24,
+          "label": "Las personas que hacen bien el trabajo pueden crecer laboralmente",
+          "key": 208,
+          "idTree": 70,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 610
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 611
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 612
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 613
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 614
+            }
+          ],
+          "order": 52,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 24,
+          "label": "Considero que mi trabajo es estable",
+          "key": 209,
+          "idTree": 72,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 615
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 616
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 617
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 618
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 619
+            }
+          ],
+          "order": 53,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 24,
+          "label": "En mi trabajo existe continua rotación de personal",
+          "key": 210,
+          "idTree": 72,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 380
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 381
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 382
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 383
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 384
+            }
+          ],
+          "order": 54,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 24,
+          "label": "Siento orgullo de laborar en este centro de trabajo",
+          "key": 211,
+          "idTree": 71,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 620
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 621
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 622
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 623
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 624
+            }
+          ],
+          "order": 55,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 24,
+          "label": "Me siento comprometido con mi trabajo",
+          "key": 212,
+          "idTree": 71,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 625
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 626
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 627
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 628
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 629
+            }
+          ],
+          "order": 56,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Las preguntas siguientes están relacionadas con actos de violencia laboral (malos tratos, acoso, hostigamiento, acoso psicológico)",
+      "shortTitle": "VIOLENCIA LABORAL",
+      "idSection": 25,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 25,
+          "label": "En mi trabajo puedo expresarme libremente sin interrupciones",
+          "key": 213,
+          "idTree": 68,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 630
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 631
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 632
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 633
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 634
+            }
+          ],
+          "order": 57,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 25,
+          "label": "Recibo críticas constantes a mi persona y/o trabajo",
+          "key": 214,
+          "idTree": 68,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 385
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 386
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 387
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 388
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 389
+            }
+          ],
+          "order": 58,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 25,
+          "label": "Recibo burlas, calumnias, difamaciones, humillaciones o ridiculizaciones",
+          "key": 215,
+          "idTree": 68,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 390
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 391
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 392
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 393
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 394
+            }
+          ],
+          "order": 59,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 25,
+          "label": "Se ignora mi presencia o se me excluye de las reuniones de trabajo y en la toma de decisiones",
+          "key": 216,
+          "idTree": 68,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 395
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 396
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 397
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 398
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 399
+            }
+          ],
+          "order": 60,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 25,
+          "label": "Se manipulan las situaciones de trabajo para hacerme parecer un mal trabajador",
+          "key": 217,
+          "idTree": 68,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 400
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 401
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 402
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 403
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 404
+            }
+          ],
+          "order": 61,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 25,
+          "label": "Se ignoran mis éxitos laborales y se atribuyen a otros trabajadores",
+          "key": 218,
+          "idTree": 68,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 405
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 406
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 407
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 408
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 409
+            }
+          ],
+          "order": 62,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 25,
+          "label": "Me bloquean o impiden las oportunidades que tengo para obtener ascenso o mejorar en mi trabajo",
+          "key": 219,
+          "idTree": 68,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 410
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 411
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 412
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 413
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 414
+            }
+          ],
+          "order": 63,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 25,
+          "label": "He presenciado actos de violencia en mi centro de trabajo",
+          "key": 220,
+          "idTree": 68,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 415
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 416
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 417
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 418
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 419
+            }
+          ],
+          "order": 64,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Las preguntas siguientes están relacionadas con la atención a clientes y usuarios",
+      "shortTitle": "ATENCION A CLIENTES Y USUARIOS",
+      "idSection": 26,
+      "rule": 2,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 26,
+          "label": "En mi trabajo debo brindar servicio a clientes o usuarios",
+          "key": 221,
+          "idTree": 0,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "SI",
+              "order": 1,
+              "idItemValue": 635
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NO",
+              "order": 2,
+              "idItemValue": 636
+            }
+          ],
+          "order": 65,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Las preguntas siguientes están relacionadas con la atención a clientes y usuarios",
+      "shortTitle": "ATENCION A CLIENTES Y USUARIOS",
+      "idSection": 27,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 27,
+          "label": "Atiendo clientes o usuarios muy enojados",
+          "key": 222,
+          "idTree": 54,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 455
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 456
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 457
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 458
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 459
+            }
+          ],
+          "order": 66,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 27,
+          "label": "Mi trabajo me exige atender personas muy necesitadas de ayuda o enfermas",
+          "key": 223,
+          "idTree": 54,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 420
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 421
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 422
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 423
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 424
+            }
+          ],
+          "order": 67,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 27,
+          "label": "Para hacer mi trabajo debo demostrar sentimientos distintos a los míos",
+          "key": 224,
+          "idTree": 54,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 425
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 426
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 427
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 428
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 429
+            }
+          ],
+          "order": 68,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 27,
+          "label": "Mi trabajo me exige atender situaciones de violencia",
+          "key": 225,
+          "idTree": 54,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 430
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 431
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 432
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 433
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 434
+            }
+          ],
+          "order": 69,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Las preguntas siguientes están relacionadas con las actitudes de las personas que supervisa",
+      "shortTitle": "ACTITUDES DE LOS TRABAJADORES QUE SUPERVISA",
+      "idSection": 30,
+      "rule": 2,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 30,
+          "label": "Soy jefe de otros trabajadores",
+          "key": 226,
+          "idTree": 0,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "SI",
+              "order": 1,
+              "idItemValue": 637
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NO",
+              "order": 2,
+              "idItemValue": 638
+            }
+          ],
+          "order": 70,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Las preguntas siguientes están relacionadas con las actitudes de las personas que supervisa",
+      "shortTitle": "ACTITUDES DE LOS TRABAJADORES QUE SUPERVISA",
+      "idSection": 31,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 3,
+          "idSection": 31,
+          "label": "Comunican tarde los asuntos de trabajo",
+          "key": 227,
+          "idTree": 67,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 435
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 436
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 437
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 438
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 439
+            }
+          ],
+          "order": 71,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 31,
+          "label": "Dificultan el logro de los resultados del trabajo",
+          "key": 228,
+          "idTree": 67,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 440
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 441
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 442
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 443
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 444
+            }
+          ],
+          "order": 72,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 31,
+          "label": "Cooperan poco cuando se necesita",
+          "key": 229,
+          "idTree": 67,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 445
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 446
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 447
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 448
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 449
+            }
+          ],
+          "order": 73,
+          "value": "",
+          "idResponse": 0
+        },
+        {
+          "surveyId": 3,
+          "idSection": 31,
+          "label": "Ignoran las sugerencias para mejorar su trabajo",
+          "key": 230,
+          "idTree": 67,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.00",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 450
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.00",
+              "value": "CASI SIEMPRE",
+              "order": 2,
+              "idItemValue": 451
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.00",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 452
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "1.00",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 453
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 454
+            }
+          ],
+          "order": 74,
+          "value": "",
+          "idResponse": 0
+        }
+      ]
+    }
+  ]
+}

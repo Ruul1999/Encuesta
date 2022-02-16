@@ -1,0 +1,1008 @@
+{
+  "title": "Encuesta 270",
+  "shortTitle": "Encuesta Personal Clave (270°) ",
+  "initMessage": "<p style=\"text-align: justify;\"><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\">Te solicitamos seguir las recomendaciones que a continuación se mencionan:</span></p>\r\n<ul>\r\n  <li style=\"text-align: justify;\"><span style=\"font-size: \r\n      16px;\"><span style=\"font-family: \r\n        Arial, Helvetica, sans-serif;\">Responder la encuesta en un lugar tranquilo en donde logres concentrarte y no tengas interrupciones.</span></span></li>\r\n  <li style=\"text-align: justify;\"><span style=\"font-size: \r\n      16px;\"><span style=\"font-family: \r\n        Arial, Helvetica, sans-serif;\">Al iniciar la encuesta ten la certeza  de contar con tiempo suficiente para concluirla, ya que, de no ser así tendrás que reiniciar la actividad.</span></span></li>\r\n  <li style=\"text-align: justify;\"><span style=\"font-size: \r\n      16px;\"><span style=\"font-family: \r\n        Arial, Helvetica, sans-serif;\">Asegura de responder completamente. No existen respuestas correctas, ni incorrectas, por lo que con toda confianza puedes externar tu opinión.</span></span></li>\r\n  <li style=\"text-align: justify;\"><span style=\"font-size: \r\n      16px;\"><span style=\"font-family: \r\n        Arial, Helvetica, sans-serif;\">Lo que respondas es privado y confidencial.</span></span></li>\r\n  <li style=\"text-align: justify;\"><span style=\"font-size: \r\n      16px;\"><span style=\"font-family: \r\n        Arial, Helvetica, sans-serif;\">Guardar tu clave de seguridad, ya que, con ella podrás  ingresar a todas las actividades que realizarás en Mi Espacio Sanborns.</span></span></li>\r\n</ul>\r\n<p style=\"text-align: justify;\"><span style=\"font-size: \r\n      16px;\"><span style=\"font-family: \r\n        Arial, Helvetica, sans-serif;\">Lee cuidadosamente cada uno de las afirmaciones. Marca la opción que mejor refleje el actuar del colaborador durante este año.</span></span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: 16px;\">¿Quieres proceder con la elaboración de la encuesta?</span></p>",
+  "idSurvey": 11,
+  "idSurveyType": 3,
+  "idEval": 0,
+  "idTypeEval": 0,
+  "status": "U",
+  "sections": [
+    {
+      "title": "Relación Laboral",
+      "shortTitle": "Relación laboral",
+      "idSection": 61,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 11,
+          "idSection": 61,
+          "label": "Se dirige con respeto",
+          "key": 372,
+          "idTree": 105,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.65",
+              "value": " SIEMPRE",
+              "order": 1,
+              "idItemValue": 991
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.52",
+              "value": " MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 995
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.39",
+              "value": " ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 992
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.26",
+              "value": " CASI NUNCA",
+              "order": 4,
+              "idItemValue": 994
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": " NUNCA",
+              "order": 5,
+              "idItemValue": 993
+            }
+          ],
+          "order": 1,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 61,
+          "label": "Escucha a las personas con atención.",
+          "key": 373,
+          "idTree": 105,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 996
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1000
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 997
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 999
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 998
+            }
+          ],
+          "order": 2,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 61,
+          "label": "Evita conflictos con las demás personas",
+          "key": 374,
+          "idTree": 105,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1001
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1005
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1002
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1004
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1003
+            }
+          ],
+          "order": 3,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 61,
+          "label": "Atiende con disposición al personal sin importar la jerarquía",
+          "key": 375,
+          "idTree": 105,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1006
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1010
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1007
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1009
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1008
+            }
+          ],
+          "order": 4,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 61,
+          "label": "Brinda apoyo cuando se le requiere ",
+          "key": 376,
+          "idTree": 105,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1011
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1015
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1012
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1014
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1013
+            }
+          ],
+          "order": 5,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 61,
+          "label": "Fomenta la colaboración en su equipo de trabajo",
+          "key": 377,
+          "idTree": 105,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1016
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1020
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1017
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1019
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1018
+            }
+          ],
+          "order": 6,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 61,
+          "label": "Evita llamar la atención en público",
+          "key": 378,
+          "idTree": 105,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1021
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1025
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1022
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1024
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1023
+            }
+          ],
+          "order": 7,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 61,
+          "label": "Es un ejemplo a seguir",
+          "key": 379,
+          "idTree": 105,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1026
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1030
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1027
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1029
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1028
+            }
+          ],
+          "order": 8,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 61,
+          "label": "Sensibiliza y entusiasma al equipo en el logro de objetivos.",
+          "key": 380,
+          "idTree": 105,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1031
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1035
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1032
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1034
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1033
+            }
+          ],
+          "order": 9,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 61,
+          "label": "Acepta diferencias de opiniones",
+          "key": 381,
+          "idTree": 105,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1036
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1040
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1037
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1039
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1038
+            }
+          ],
+          "order": 10,
+          "value": null,
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Responsabilidad y Honestidad",
+      "shortTitle": "Responsabilidad y Honestidad",
+      "idSection": 62,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 11,
+          "idSection": 62,
+          "label": "Actúa en función de los valores y las buenas prácticas de la empresa",
+          "key": 382,
+          "idTree": 106,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1041
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1045
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1042
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1044
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1043
+            }
+          ],
+          "order": 11,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 62,
+          "label": "Da información confiable de su trabajo y apegada a la realidad",
+          "key": 383,
+          "idTree": 106,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1046
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1050
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1047
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1049
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1048
+            }
+          ],
+          "order": 12,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 62,
+          "label": "Se conduce con honestidad",
+          "key": 384,
+          "idTree": 106,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1051
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1055
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1052
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1054
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1053
+            }
+          ],
+          "order": 13,
+          "value": null,
+          "idResponse": 0
+        }
+      ]
+    },
+    {
+      "title": "Trabajo",
+      "shortTitle": "Trabajo",
+      "idSection": 63,
+      "rule": 0,
+      "questions": [
+        {
+          "surveyId": 11,
+          "idSection": 63,
+          "label": "Cumple con sus actividades en tiempo y forma",
+          "key": 385,
+          "idTree": 107,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1056
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1060
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1057
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1059
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1058
+            }
+          ],
+          "order": 14,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 63,
+          "label": "Se involucra en el cumplimiento de las actividades de su área",
+          "key": 386,
+          "idTree": 107,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1061
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1065
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1062
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1064
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1063
+            }
+          ],
+          "order": 15,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 63,
+          "label": "Es una persona comprometida con la empresa",
+          "key": 387,
+          "idTree": 107,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1066
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1070
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1067
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1069
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1068
+            }
+          ],
+          "order": 16,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 63,
+          "label": "Busca soluciones o mejoras para su área o para la empresa",
+          "key": 388,
+          "idTree": 107,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1071
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1075
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1072
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1074
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1073
+            }
+          ],
+          "order": 17,
+          "value": null,
+          "idResponse": 0
+        },
+        {
+          "surveyId": 11,
+          "idSection": 63,
+          "label": "Muestra disposición ante tareas extraordinarias de trabajo",
+          "key": 389,
+          "idTree": 107,
+          "required": 1,
+          "controlType": "radio",
+          "replys": [
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "5.55",
+              "value": "SIEMPRE",
+              "order": 1,
+              "idItemValue": 1076
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "4.44",
+              "value": "MUCHAS VECES",
+              "order": 2,
+              "idItemValue": 1080
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "3.33",
+              "value": "ALGUNAS VECES",
+              "order": 3,
+              "idItemValue": 1077
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "2.22",
+              "value": "CASI NUNCA",
+              "order": 4,
+              "idItemValue": 1079
+            },
+            {
+              "replyType": null,
+              "replytext": null,
+              "key": "0.00",
+              "value": "NUNCA",
+              "order": 5,
+              "idItemValue": 1078
+            }
+          ],
+          "order": 18,
+          "value": null,
+          "idResponse": 0
+        }
+      ]
+    }
+  ]
+}

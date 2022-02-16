@@ -1,0 +1,30 @@
+<br/>
+
+<h2 style="text-align: center;">{{encuestas.shortTitle}}</h2>
+<br/>
+
+<div class="card" style="background-color:oldlace;">
+    <div class="card-body">
+        <h4>{{encuestas.sections[seccionIndice].shortTitle}}</h4>
+      
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-body">
+        {{encuestas.sections[seccionIndice].questions[preguntaIndice].label}}
+    </div>
+    
+        <ul *ngFor="let valor of encuestas.sections[seccionIndice].questions[preguntaIndice].replys;">
+     <div>
+        <input type="radio"  value="{{valor.key}}" (change)="mostrarValorButton(valor.key)" [checked]="radioChecked(valor.key)" >
+       <label >   {{ valor.value  }}  </label>
+    </div>
+        </ul>
+    <br/>
+  </div>
+  <br/>
+  <div class="d-grid gap-2 d-md-block" style="align-items: left;">
+    <button class="btn btn-primary" type="button" (click)="buttonatras()" style="width: 80px;"> < </button>
+    <button class="btn btn-primary" type="button" (click)="buttonsiguiente()" style="width: 80px; margin-left: 10px;"> > </button>
+    <button id="hidebutton" class="btn btn-primary btn-lg" *ngIf="hidebutton" routerLink="/encuestas" style="width: 150px; margin-left: 30px;" > IR A ENCUESTAS </button>
+  </div>
